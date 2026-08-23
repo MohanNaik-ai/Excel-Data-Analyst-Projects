@@ -12,6 +12,7 @@ This Excel project analyzes retail sales data to identify and analyze its 2022 a
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?, etc.
 
+
 #Practice_Sales_Data
 ## Overview
 An end-to-end Excel analysis of a 113,000+ row bike & accessories sales dataset, covering transactions from 2013–2016 across multiple countries. The project demonstrates data analysis, dashboarding, and data-quality auditing skills using native Excel tools
