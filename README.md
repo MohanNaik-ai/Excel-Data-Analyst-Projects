@@ -20,3 +20,11 @@ An end-to-end Excel analysis of a 113,000+ row bike & accessories sales dataset,
 2. Fields: Date, Customer Demographics (Age, Age Group, Gender), Geography (Country, State), Product Details (Category, Sub
    Category, Product), and Financials (Order Quantity, Unit Cost, Unit Price, Cost, Revenue, Profit)
 
+## Business Questions Answered
+1. Total Revenue, Cost, and Profit by Year and Product Category — build a Pivot Table + Pivot Chart
+2. Which Country/State generates the highest profit margin (Profit/Revenue), not just highest revenue?
+3. Top 10 best-selling Products by Order_Quantity, and their contribution % to total revenue (Pareto/80-20)
+4. Sales trend by Month across years — is there seasonality?
+5. Average order value by Age_Group and Gender
+6. Use XLOOKUP/INDEX-MATCH to pull unit price for a product into a separate summary sheet
+7. Build a dynamic dashboard where a slicer/dropdown (Data Validation) filters Pivot Tables by Country and Category simultaneously
